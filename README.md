@@ -1,6 +1,6 @@
 <div align="left" style="position: relative;">
 <img src="https://images.icon-icons.com/4191/PNG/512/dartboard_focus_bullseye_marketing_arrow_business_target_icon_262501.png" align="right" width="30%" style="margin: -20px 0 0 20px;">
-<h1>🛡️ AUTO-PROCESS-BLOCKER</h1>
+<h1>🛡️ AUTO PROCESS BLOCKER</h1>
 <p align="left">
 	<em><code>❯ A lightweight Windows utility that automatically blocks and terminates selected processes as soon as they start — helping you save RAM and keep your system clean.</code></em>
 </p>
