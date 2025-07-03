@@ -259,7 +259,7 @@ Special thanks to the following resources and individuals who inspired or suppor
 
 - 🤝 **Contributors & Testers** — Everyone who tested the app, gave feedback, or contributed code
 
-- 🎥 **@metindeder** — Project lead, development, and documentation  
+- 🎥 **@metindeder** — Project lead & development
   https://www.youtube.com/@metindeder
 
 > If you’d like to be added to the acknowledgments list, feel free to open a PR or discussion!
