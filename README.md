@@ -93,10 +93,11 @@ Here’s what makes **Auto Process Blocker** powerful, flexible, and developer-f
   Clean, fast, and reliable on all modern Windows systems.
 ---
 
----
-
 ## 📸 Screenshots
 
+<img src="https://github.com/metindeder/Auto-Process-Blocker/blob/main/Screenshots/main.png" width="80%">
+<img src="https://github.com/metindeder/Auto-Process-Blocker/blob/main/Screenshots/save-banned-programs.png" width="80%">
+---
 
 ## 📁 Project Structure
 
