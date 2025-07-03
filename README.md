@@ -156,7 +156,7 @@ git clone https://github.com/metindeder/Auto-Process-Blocker.git
 
 ### 🤖 Usage
 Build the solution:
-**Using `visual studio 2022`** &nbsp; [<img align="center" src="" />]()
+**Using `visual studio 2022`** &nbsp; [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" width="10%" />]()
 
 ```sh
 ❯ Build → Build Solution 
