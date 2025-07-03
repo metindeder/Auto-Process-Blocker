@@ -1,4 +1,0 @@
-OfficeClickToRun.exe
-opera_crashreporter.exe
-PhoneExperienceHost.exe
-SDXHelper.exe
